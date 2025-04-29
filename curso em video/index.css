@@ -1,0 +1,177 @@
+@font-face {
+    font-family: idroid;
+    src: url(arquivos/fontes/idroid.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(255, 218, 169);
+    
+}
+
+header {
+    background-image: linear-gradient(rgb(87, 170, 87), rgb(0, 59, 0));
+    height: auto;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.493);
+    padding: 0px 0px;
+}
+main {
+    background-color: rgb(255, 255, 255);
+
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.274);
+    max-width: 800px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 3px black;
+    padding: 30px 0px 0px 0px;
+}
+img {
+    margin: auto;
+    max-width: 100%;
+}
+.imagen {
+    display: flex;
+    justify-content: center;
+}
+iframe {
+    width: 80%;
+    margin: auto;
+    
+}
+.video {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: min-content;
+    background-image: radial-gradient( green 40%, rgb(11, 63, 0));
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.342);
+}
+#lista {
+    background-color: rgb(81, 165, 102);
+    width: 95%;
+    border-radius: 15px;
+    margin: 10px auto;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.493);
+
+}
+#h4-lista {
+    padding: 8px;
+    background-color: rgb(35, 99, 57);
+    border-radius: 15px 15px 0px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 3px black;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.493);
+}
+
+#list-content {
+    width: 90%;
+    margin: auto;
+}
+ul {
+    size: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 15px 0px;
+    max-height: 260px;
+    max-width: 50%;
+    margin: 10px 0px;
+    list-style-type: "▷ ";
+}
+p {
+    margin: 30px 20px;
+    font-size: 17px;
+}
+
+#final {
+    margin: auto;
+    max-width: 75%;
+}
+#h4-header {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 3px black;
+    margin: 10px;
+}
+h3 {
+    font-family: idroid;
+    margin: 0px 15px;
+    background-image: linear-gradient(90deg, rgba(2, 255, 57, 0.651), transparent);
+    padding: 0px 10px;
+    color: rgb(2, 87, 2);
+}
+h2 {
+    font-family: idroid;
+    margin: 0px 15px;
+    padding: 5px 0px;
+    color: rgb(0, 39, 0);
+}
+a {
+    background-image: linear-gradient(90deg, rgba(2, 255, 57, 0.651), rgba(4, 216, 4, 0.103));
+    color: rgb(2, 87, 2);
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+}
+a::after {
+    content: "🔗";
+}
+strong {
+    color: rgb(0, 66, 0);
+    font-family: sans-serif;
+}
+#seila{
+    background-image: none;
+    color: rgb(2, 87, 2);
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+}
+li {
+    text-decoration: underline;
+}
+footer {
+    background-color: rgb(0, 37, 0);
+    display: flex;
+    justify-content: center;
+}
+#final {
+    color: white;
+    margin: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p-final {
+    padding: 30px 30px;
+}
+#menu {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0px 0px 0px;
+}
+.menu-buttom {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.568);
+    padding: 10px;
+}
+.menu-buttom:hover {
+    background-color: rgba(255, 255, 255, 0.356);
+    border-radius: 5px;
+}
+#lists {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
