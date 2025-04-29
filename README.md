@@ -1,7 +1,9 @@
 site sobre a android feitop no curso do gustavo guanabara
 
 LINKS VVVV
-https://leandersonjoaquimfardilhadasilva.github.io/android/curso%20em%20video/index.html - feito sozinho apenas com a imagen do site
+<a target="_blank" href="https://leandersonjoaquimfardilhadasilva.github.io/android/curso%20em%20video/index.html">feito sozinho apenas com a imagen do site</a>
 
-https://leandersonjoaquimfardilhadasilva.github.io/android/curso%20em%20video/index2.html - feito junto com o gustavo guanabara com todas as metricas corretas
- por leanderson joaquim fardilha da silva
+
+<a target="_blank" href="https://leandersonjoaquimfardilhadasilva.github.io/android/curso%20em%20video/index2.html">feito junto com o gustavo guanabara com todas as metricas corretas</a>
+
+por leanderson joaquim fardilha da silva
