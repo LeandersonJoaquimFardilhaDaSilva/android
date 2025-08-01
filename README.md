@@ -1,4 +1,4 @@
-site sobre a android feitop no curso do gustavo guanabara
+site sobre a android feito no curso do gustavo guanabara
 
 LINKS VVVV
 
